@@ -1,0 +1,36 @@
+nodosur_erp = E-pjfZsMP7SR-FP
+
+public_custom_access_token_hook 
+
+postgresql://postgres:E-pjfZsMP7SR-FP@db.nysohjsrzofaiivyufvo.supabase.co:5432/postgres
+
+ai agent: npx skills add supabase/agent-skills
+
+1. Connection string
+Copy the connection details for your database.
+Details:
+host:db.nysohjsrzofaiivyufvo.supabase.coport:5432database:postgresuser:postgres
+Code:
+File: Code
+```
+postgresql://postgres:E-pjfZsMP7SR-FP@db.nysohjsrzofaiivyufvo.supabase.co:5432/postgres
+```
+
+2. Install Agent Skills (Optional)
+Agent Skills give AI coding tools ready-made instructions, scripts, and resources for working with Supabase more accurately and efficiently.
+Details:
+npx skills add supabase/agent-skills
+Code:
+File: Code
+```
+npx skills add supabase/agent-skills
+```
+
+
+
+##
+
+
+annon_key = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im55c29oanNyem9mYWlpdnl1ZnZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM4NDQyNzEsImV4cCI6MjA4OTQyMDI3MX0.DytRpXDV8qumVEVG8m9wk2TInwfNC8SWYOZ7vDDaw54
+
+Publishable key = sb_publishable_N26Qrt1OV0uAKZfpChZN5g_KCJrihpl
